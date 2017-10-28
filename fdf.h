@@ -16,7 +16,7 @@
 # include <stdio.h>
 # include <math.h>
 # include <unistd.h>
-# include "minilibx/mlx.h"
+# include "mlx.h"
 # include "libft/libft.h"
 # include "libft/get_next_line.h"
 
